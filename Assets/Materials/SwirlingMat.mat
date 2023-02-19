@@ -26,9 +26,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AudioVolume: 0.77979743
-    - _DropModifier: 2
-    - _DropModifier2: 2
-    - _RotationSpeed: 40
+    - _AudioVolume: 0.17581734
+    - _DropModifier: 0
+    - _DropModifier2: 0
+    - _RotationSpeed: 0
     m_Colors: []
   m_BuildTextureStacks: []
